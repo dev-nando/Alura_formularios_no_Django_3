@@ -1,3 +1,5 @@
 venv/
 /pycache
 secrets.json
+/__pycache__
+__pycache__/
